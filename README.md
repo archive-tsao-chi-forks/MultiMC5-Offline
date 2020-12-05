@@ -8,3 +8,7 @@ For building, download the patch file (don't clone this repo!) to the same direc
 
 **Then:**
 - Run the command: `git am 0001-offline-patch.patch` and continue with the build guide normally.
+
+------------
+
+**Builds with the patch applied are available on the releases page.**
