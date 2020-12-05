@@ -1,4 +1,12 @@
 # Offline patches for MultiMC5
+Credit to [@AfoninZ](https://github.com/AfoninZ "@AfoninZ") for his patches.
+
+------------
+
+**Builds with the patch applied are available on the releases page.**
+
+------------
+
 For building, download the patch file (don't clone this repo!) to the same directory as the MultiMC5 repo and apply it like this:
 
 **First follow the steps prior to these ones:**
@@ -9,6 +17,3 @@ For building, download the patch file (don't clone this repo!) to the same direc
 **Then:**
 - Run the command: `git am 0001-offline-patch.patch` and continue with the build guide normally.
 
-------------
-
-**Builds with the patch applied are available on the releases page.**
