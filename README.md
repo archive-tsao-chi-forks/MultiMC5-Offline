@@ -1,5 +1,5 @@
 # Offline patches for MultiMC5
-Credit to [@AfoninZ](https://github.com/AfoninZ "@AfoninZ") for his patches.
+Credit to [@AfoninZ](https://github.com/AfoninZ "@AfoninZ") and [@Ponywka](https://github.com/Ponywka "@Ponywka") for their patches.
 
 ------------
 
